@@ -5,20 +5,20 @@
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
             <div
                 class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-                <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Knausgaard typewriter
-                    readymade marfa</h1>
-                <p class="mb-8 leading-relaxed">Chillwave portland ugh, knausgaard fam polaroid iPhone. Man braid swag
-                    typewriter affogato, hella selvage wolf narwhal dreamcatcher.</p>
+                <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Dress like you own the world
+                </h1>
+                <p class="mb-8 leading-relaxed"> Subscribe to our news letter to get updated on our amazing new arrivals.
+                </p>
                 <div class="flex w-full md:justify-start justify-center items-end">
                     <div class="relative mr-4 md:w-full lg:w-full xl:w-1/2 w-2/4">
-                        <label for="hero-field" class="leading-7 text-sm text-gray-600">Placeholder</label>
+                        <label for="hero-field" class="leading-7 text-sm text-gray-600">Your Email</label>
                         <input type="text" id="hero-field" name="hero-field"
                             class="w-full bg-gray-100 rounded border bg-opacity-50 border-gray-300 focus:ring-2 focus:ring-indigo-200 focus:bg-transparent focus:border-indigo-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out">
                     </div>
                     <button
-                        class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
+                        class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Subscribe</button>
                 </div>
-                <p class="text-sm mt-2 text-gray-500 mb-8 w-full">Neutra shabby chic ramps, viral fixie.</p>
+                <p class="text-sm mt-2 text-gray-500 mb-8 w-full">Also don't forget to follow us on social media.</p>
                 <div class="flex lg:flex-row md:flex-col">
                     <button
                         class="bg-gray-100 inline-flex py-3 px-5 rounded-lg items-center hover:bg-gray-200 focus:outline-none">
@@ -61,94 +61,14 @@
     <section class="text-gray-600 body-font">
         <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-wrap -m-4">
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/420x260">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
-                        <p class="mt-1">$16.00</p>
-                    </div>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/421x261">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
-                        <p class="mt-1">$21.15</p>
-                    </div>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/422x262">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
-                        <p class="mt-1">$12.00</p>
-                    </div>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/423x263">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
-                        <p class="mt-1">$18.40</p>
-                    </div>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/424x264">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
-                        <p class="mt-1">$16.00</p>
-                    </div>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/425x265">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
-                        <p class="mt-1">$21.15</p>
-                    </div>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/427x267">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
-                        <p class="mt-1">$12.00</p>
-                    </div>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
-                    <a class="block relative h-48 rounded overflow-hidden">
-                        <img alt="ecommerce" class="object-cover object-center w-full h-full block"
-                            src="https://dummyimage.com/428x268">
-                    </a>
-                    <div class="mt-4">
-                        <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                        <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
-                        <p class="mt-1">$18.40</p>
-                    </div>
-                </div>
+                <x-product url="{{ asset('images/products/1.png') }}" category="Saari" title="Lehenga" price="$32.01" />
+                <x-product url="{{ asset('images/products/2.png') }}" category="Saari" title="Lehenga" price="$32.01" />
+                <x-product url="{{ asset('images/products/3.png') }}" category="Saari" title="Lehenga" price="$32.01" />
+                <x-product url="{{ asset('images/products/4.png') }}" category="Saari" title="Lehenga" price="$32.01" />
+                <x-product url="{{ asset('images/products/5.png') }}" category="Saari" title="Lehenga" price="$32.01" />
+                <x-product url="{{ asset('images/products/6.png') }}" category="Saari" title="Lehenga" price="$32.01" />
+                <x-product url="{{ asset('images/products/7.png') }}" category="Saari" title="Lehenga" price="$32.01" />
+                <x-product url="{{ asset('images/products/8.png') }}" category="Saari" title="Lehenga" price="$32.01" />
             </div>
         </div>
     </section>
