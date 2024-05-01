@@ -10,3 +10,7 @@ Route::get('/', function () {
 Route::get('/products/show',function(){
     return view('products.show');
 });
+
+Route::get('/products',function(){
+    return view('products.index');
+}); 
