@@ -14,3 +14,8 @@ Route::get('/products/show',function(){
 Route::get('/products',function(){
     return view('products.index');
 }); 
+
+Route::get('/login',function()
+{
+    return view('login.index');
+});

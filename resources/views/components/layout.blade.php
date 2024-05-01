@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
@@ -24,7 +24,7 @@
             <nav
                 class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
                 <x-nav-link href="/">Home</x-nav-link>
-                <x-nav-link href="/about">About</x-nav-link>
+                <x-nav-link href="/products">Products</x-nav-link>
                 <x-nav-link href="/services">Services</x-nav-link>
                 <x-nav-link href="/contact">Contact</x-nav-link>
             </nav>

@@ -59,6 +59,10 @@
 
     {{-- Products --}}
     <section class="text-gray-600 body-font">
+        <div class="products-header flex justify-between items-center p-3">
+            <h1 class="text-3xl text-center font-bold text-gray-900">Our Products</h1>
+            <p class="text-center text-gray-600 mt-2"><a href="/products">View More ></a></p>
+        </div>
         <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-wrap -m-4">
                 <x-product url="{{ asset('images/products/1.png') }}" category="Saari" title="Lehenga" price="$32.01" />
