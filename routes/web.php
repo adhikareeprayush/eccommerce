@@ -23,3 +23,8 @@ Route::get('/register',function()
 {
     return view('register.index');
 }); 
+
+Route::get('/contact',function()
+{
+    return view('contact.index');
+});
