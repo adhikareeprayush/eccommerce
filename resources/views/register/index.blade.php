@@ -43,9 +43,8 @@
                     <div class="p-2 w-full flex items-center flex-col">
                         <button
                             class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Login</button>
-                        <p class="mt-2">Don't have an account yet? <a href="#"
-                                class="font-bold text-indigo-500">Create
-                                Account.</a></p>
+                        <p class="mt-2">Aleady have an account? <a href="/login"
+                                class="font-bold text-indigo-500">Login</a></p>
                     </div>
                     <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
                         <a class="text-indigo-500">adhikareeprayush@gmail.com</a>
